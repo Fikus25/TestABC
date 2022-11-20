@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",NAME="Default",AUTOSELECT=YES,DEFAULT=YES,URI="https://steambroadcast.akamaized.net/broadcast/76561198037988282/6702608887526247065/hls_manifest/0/steambroadcast.akamaized.net/160000/audio.m3u8?broadcast_origin=ext2-fra2.steamserver.net"
+#EXT-X-STREAM-INF:BANDWIDTH=2660000,CODECS="avc1.64002a,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=60,AUDIO="aac"
+https://steambroadcast.akamaized.net/broadcast/76561198037988282/6702608887526247065/hls_manifest/0/steambroadcast.akamaized.net/2500000/video.m3u8?broadcast_origin=ext2-fra2.steamserver.net
+#EXT-X-STREAM-INF:BANDWIDTH=3660000,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=30,AUDIO="aac"
+https://steambroadcast.akamaized.net/broadcast/76561198037988282/6702608887526247065/hls_manifest/0/steambroadcast.akamaized.net/3500000/video.m3u8?broadcast_origin=ext2-fra2.steamserver.net
+#EXT-X-STREAM-INF:BANDWIDTH=1660000,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=30,AUDIO="aac"
+https://steambroadcast.akamaized.net/broadcast/76561198037988282/6702608887526247065/hls_manifest/0/steambroadcast.akamaized.net/1500000/video.m3u8?broadcast_origin=ext2-fra2.steamserver.net
+#EXT-X-STREAM-INF:BANDWIDTH=660000,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=30,AUDIO="aac"
+https://steambroadcast.akamaized.net/broadcast/76561198037988282/6702608887526247065/hls_manifest/0/steambroadcast.akamaized.net/500000/video.m3u8?broadcast_origin=ext2-fra2.steamserver.net
